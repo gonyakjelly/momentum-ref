@@ -1,4 +1,4 @@
-const images = ["newyork1.jpg", "newyork2.jpg", "newyork3.jpeg"];
+const images = ["newyork1.jpeg", "newyork2.jpeg", "newyork3.jpeg"];
 
 const body = document.querySelector("body");
 
